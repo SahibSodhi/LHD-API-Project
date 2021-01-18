@@ -1,4 +1,4 @@
-# api-project
+# LHD-API-Project
 
 ## The challenge: 
 * Combine two separate API calls in a single application 
